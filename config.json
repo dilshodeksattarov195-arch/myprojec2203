@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersender",
+        "uuid": 19597888,
+        "checksum": "cd9bt8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
